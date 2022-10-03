@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731694082604",
+    "project_id": "fir-shoppingapp-2a286",
+    "storage_bucket": "fir-shoppingapp-2a286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731694082604:android:6a2173fba7fdedc556ff89",
+        "android_client_info": {
+          "package_name": "com.example.firebaseshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731694082604-80h2m5vkmo899tm13qehh3nl1j5hp3j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6c8oMvTsF6isJzZ3L_hbCcXL7HYuhakA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731694082604-80h2m5vkmo899tm13qehh3nl1j5hp3j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
